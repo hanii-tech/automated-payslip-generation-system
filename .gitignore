@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated output (keep folder structure, ignore contents)
+output/
+data/employees_with_netpay.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
