@@ -104,6 +104,20 @@ Required columns:
 
 A ready-to-use sample dataset with 10 employees is already included.
 
+## Sample Dataset
+
+The project includes a synthetic employee dataset for testing.
+
+Fields include:
+- Employee_ID
+- Employee_Name
+- Department
+- Basic Salary
+- HRA (%)
+- Allowances
+- Other Deductions
+- Email
+
 ---
 
 ## 3. Run the pipeline
@@ -184,15 +198,20 @@ succeeded and what needs attention.
 
 ---
 
-## Screenshots 
+## Screenshots
 
+### Employee Dataset
+![Dataset](screenshots/employees_dataset.png), 
+![Dataset with netpay](screenshots/employees_with_netpay.png)
 
+### Generated Payslip
+![Payslip](screenshots/generated_payslip_pdf.png)
 
+### Email Notification
+![Email](screenshots/email_received.png)
 
-
-
-
-
+### Payroll Manifest Report
+![Manifest](screenshots/payslip_manifest.png)
 
 
 ## Notes
