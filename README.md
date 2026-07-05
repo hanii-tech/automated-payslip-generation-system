@@ -201,7 +201,7 @@ succeeded and what needs attention.
 ## Screenshots
 
 ### Employee Dataset
-![Dataset](screenshots/employees_dataset.png), 
+![Dataset](screenshots/employees_dataset.png)
 ![Dataset with netpay](screenshots/employees_with_netpay.png)
 
 ### Generated Payslip
@@ -221,3 +221,8 @@ succeeded and what needs attention.
 - Regenerated files (`employees_with_netpay.csv`, PDFs, manifest) are
   git-ignored by default so your repo only tracks source code and the
   sample dataset.
+
+## Author
+
+Harini T
+Aspiring Software Engineer with a focus on AI and Data-Driven Applications.
